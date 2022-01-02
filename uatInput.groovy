@@ -1,5 +1,3 @@
-package com.mcnz
-
 public class uatInput {
 
   def buildIsUatApproved() {
